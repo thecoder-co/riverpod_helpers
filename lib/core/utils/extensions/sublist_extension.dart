@@ -58,9 +58,9 @@ void test() {
   list[2] = 3;
   list[3] = 4;
   list[4] = 5;
-  print(list[2]); // prints 3
-  print(list[-1]); // prints 5
-  print(list[(1, 4)]); // prints [2, 3, 4]
-  print(list[(1, 4, 2)]); // prints [2, 4]
-  print(list[(4, 1, -1)]); // prints [5, 4, 3]
+  // print(list[2]); // prints 3
+  // print(list[-1]); // prints 5
+  // print(list[(1, 4)]); // prints [2, 3, 4]
+  // print(list[(1, 4, 2)]); // prints [2, 4]
+  // print(list[(4, 1, -1)]); // prints [5, 4, 3]
 }
